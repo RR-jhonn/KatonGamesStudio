@@ -305,6 +305,7 @@
     }
     #navegação a {
         margin-top: 0;
+        font-size: 2vh;
         color: white;
         text-decoration: none;
     }
@@ -315,6 +316,7 @@
        margin-top: 13.5vh;
     }
     #email p{
+        font-size: 2vh;
         margin-left: 1.5vw;
     }
 
@@ -324,6 +326,7 @@
         margin-top: 13vh;
     }
     #sigaNos div{
+        font-size: 2vh;
         margin-left: 1.7vw;
     }
 }
