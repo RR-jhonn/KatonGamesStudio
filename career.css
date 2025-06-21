@@ -1,0 +1,80 @@
+@media screen and (max-width:1023px) {
+    
+}
+
+@media screen and (min-width:1024px){
+    body{
+        margin: 0;
+        background-color: #0F1428;
+    }
+    nav{
+        width: 100%;
+        padding-top: 1vh;
+        background-color: #ed5f2a;
+        height: 5vh;
+        position: fixed;
+    }
+    nav a{
+        margin-left: 2%;
+        color: white;
+        text-decoration: none;
+        font-family:"Afacad", sans-serif;
+        font-size: 2vh;
+    }
+
+    main{
+        margin-top: 10vh;
+    }
+    
+    article{
+        margin-top: 3vw;
+        display: flex;
+        width: 80%;
+        margin-left: 12vw;
+        height: 15vw;
+        margin-bottom: 3vh;
+    
+        color: white;
+    }
+    article img{
+        border-radius: 100%;
+        width: 15vw;
+        height: 15vw;
+    }
+    article h1{
+        margin-left: 2vw;
+        height: 3vw;
+        width: 25vw;
+        color: #ed5f2a;
+        font-family: "Jersey 15", sans-serif;
+        font-size: 2.5vw;
+        margin-top: -0vw;
+    }
+    article p{
+        margin-top: 4vw;
+        margin-left: -25vw;
+        height: 10vw;
+        width: 25vw;
+        font-family: "Afacad",sans-serif;
+        font-size: 1vw;
+    }
+    #Artvar1{
+        display: flex;
+        width: 80%;
+        margin-left: 12vw;
+        height: 15vw;
+        margin-bottom: 5vw;
+    
+    }
+    #Artvar1 img{
+        margin-left: 2vw;
+    }
+    #Artvar1 h1{
+        width: 25vw;
+        margin-left: 31vw;
+    }
+    #Artvar1 p{
+        width: 25vw;
+        margin-left: -25vw;
+    }
+}
