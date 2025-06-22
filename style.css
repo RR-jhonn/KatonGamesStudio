@@ -25,6 +25,7 @@
         font-family: "Afacad",sans-serif;
         display: flex;
         height: 50vh;
+        width:100%;
     }
 
     footer img{
@@ -42,31 +43,31 @@
         width: 25vw;
         height: 25vh;
         margin-left: 5vw;
-        margin-top: 2vh;
+        margin-top: 4vw;
     }
     #navegação h1{
         margin-left: auto;
-        font-size: 3vh;
+        font-size: 4vw;
     }
     #navegação a {
         margin-top: 0;
         color: white;
         text-decoration: none;
-        font-size: 2vh;
+        font-size: 3vw;
     }
 
     #email{
         width: 47vw;
-        height: 20vh;
+        height: 20vw;
+        margin-top: 4vw;
     }
     #email h1{
-       font-size: 3vh; 
+       font-size: 4vw; 
        margin-left: 20vw;
-       margin-top: 4vh;
     }
     #email p{
         margin-left: 1.5vw;
-        font-size: 2vh;
+        font-size: 3vw;
     }
 
     #sigaNos {
@@ -80,9 +81,9 @@
         display: none;
     }
     #sigaNos div{
-        width: 5vh;
-        height: 5vh;
-        margin-left: 5vh;
+        width: 5vw;
+        height: 5vw;
+        margin-left: 13vw;
     }
 }
 

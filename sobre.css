@@ -1,5 +1,43 @@
 @media screen and (max-width:1023px) {
+    main{
+        margin-top: 15vw;
+        margin-left: 10vw;
+        width: 80vw;
+    }
+
+    section h1{
+        font-family: "Afacad", sans-serif;
+        font-size: 4vw;
+        color: #fb8500;
+
+    }
+    section p{
+        font-family: "Afacad",sans-serif;
+        font-size: 3vw;
+        color: white;
+
+    }
     
+    article h1{
+        color: #fb8500;
+        font-family: "Jersey 15",sans-serif;
+        font-size: 5vw;
+        margin-left: 15vw;
+    }
+    article img{
+        padding: 0.5vw;
+        border: #fb8500 solid 3px;
+        margin-left: 13vw;
+        width: 70vw;
+    }
+    article div{
+        margin-left: 13vw;
+    }
+    .artEx{
+        margin-top: 2vw;
+        width: 30vw;
+        margin-left: 2vw;
+    }
 }
 
 @media screen and (min-width:1024px) {
